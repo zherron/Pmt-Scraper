@@ -14,7 +14,7 @@ class QuotesSpider(scrapy.Spider):
         for box in response.css(BOX_SELECTOR):
 
 
-
+            # Not really useful to add documentation, need to read through website HTML
             NAME_SELECTOR = './/div[@class="small-box bg-gray"]/a/text()'
             TIME_UNITS_SELECTOR = './/span[1]/text()'
             TIME_SELECTOR = './/div[@class="rateNumber"]/span[not(@*)]/text()'

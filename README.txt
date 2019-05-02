@@ -10,6 +10,9 @@ Just run the daily_runner.py file. Everything else should work in the background
 Data is exported to quotes_cleaned.csv, so you can do analysis on that data once exported 
 to a different file.
 
+To run on a one off basis, simply run the program
+"one-off_runner.py"
+
 ------------------EXPLANATION----------------------------
 This Project is meant to be run in the background on a computer,
 and at 10:00am every day, it scrapes pricing data from RemitRate.com

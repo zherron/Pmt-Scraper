@@ -1,7 +1,0 @@
-datetime accessed,company name,time units,time,locked-in rate,fees string,total PHP amt,effective rate
-2019-05-02 11:22:14.349576,InstaReM,Hours,24,51.85,1015.00,"52,627.75",52.62
-2019-05-02 11:22:14.365293,TransferWise,Days,3,51.86,990.10,"51,346.59",51.36
-2019-05-02 11:22:14.376667,Philippine National Bank,Days,3,51.15,996.02,"50,946.42",50.95
-2019-05-02 11:22:14.386795,Ria Money Transfer,Days,3,50.76,1000.00,"50,760.00",50.76
-2019-05-02 11:22:14.409379,Remitly,Days,3,50.28,1000.00,"50,280.00",50.28
-2019-05-02 11:22:14.429362,Remitly,Hours,0,50.28,996.01,"50,079.38",50.08
